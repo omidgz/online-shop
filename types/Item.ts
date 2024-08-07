@@ -1,6 +1,8 @@
 export type ItemType={
   id: number;
-  text: string
+  img: string
+  title: string
+  description: string
 }
 
 export type ItemsProps = {
