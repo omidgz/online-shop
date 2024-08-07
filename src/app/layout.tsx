@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <header>head</header>
-        {children}<br />
+        {children}
         <footer style={{ float: "none" }}>foot</footer>
       </body>
     </html>
