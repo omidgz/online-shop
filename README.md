@@ -1,1 +1,1 @@
-practicing nextjs
+A React and nextjs application for practice and demo.
